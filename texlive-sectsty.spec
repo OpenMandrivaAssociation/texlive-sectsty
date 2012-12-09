@@ -50,3 +50,17 @@ a section title.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.0.2-2
++ Revision: 755886
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 2.0.2-1
++ Revision: 719499
+- texlive-sectsty
+- texlive-sectsty
+- texlive-sectsty
+- texlive-sectsty
+
