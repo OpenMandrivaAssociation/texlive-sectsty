@@ -6,7 +6,7 @@
 # catalog-version 2.0.2
 Name:		texlive-sectsty
 Version:	2.0.2
-Release:	10
+Release:	11
 Summary:	Control sectional headers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sectsty
