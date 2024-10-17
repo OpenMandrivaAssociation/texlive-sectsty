@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Control sectional headers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sectsty
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sectsty
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sectsty.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sectsty.doc.r%{version}.tar.xz
